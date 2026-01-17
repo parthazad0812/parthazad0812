@@ -19,7 +19,7 @@ My journey spans **competitive programming, machine learning, and full-stack dev
 ### ⚙️ Tech Stack
 
 **Languages:**  
-C++, Python, JavaScript, HTML, CSS  
+C++, Python, JavaScript, HTML, CSS ,Java
 
 **Frameworks & Libraries:**  
 React, Node.js, Express, Bootstrap  
