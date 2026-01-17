@@ -14,53 +14,84 @@
 I’m an aspiring **Data Scientist** with a strong passion for uncovering insights from data, and I also enjoy building **scalable backend systems**.  
 My journey spans **competitive programming, machine learning, and full-stack development**, driven by curiosity and a desire to solve real-world problems using data and technology.
 
----
+---<!-- Tech Stack Section -->
+<h3 align="center">⚙️ Tech Stack</h3>
 
-### ⚙️ Tech Stack
+<div align="center" style="margin-bottom: 25px;">
 
-**Languages:**  
-C++, Python, JavaScript, HTML, CSS  
+  <p><b>Languages</b></p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css" />
 
-**Frameworks & Libraries:**  
-React, Node.js, Express, Bootstrap  
+  <br><br>
 
-**Data Science & ML:**  
-NumPy, Pandas, Matplotlib, Seaborn, scikit-learn  
+  <p><b>Frameworks & Libraries</b></p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap" />
 
-**Analytics:**  
-Power BI, SQL, Excel  
+  <br><br>
 
-**Other:**  
-Machine Learning, Data Structures & Algorithms (DSA)
+  <p><b>Data Science & ML</b></p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <br>
+  <sub>NumPy · Pandas · Matplotlib · Seaborn · scikit-learn</sub>
 
----
+  <br><br>
 
-### 🛠️ What I Do
-- Build, train, and deploy **machine learning models**
-- Analyze datasets and create **insightful dashboards**
-- Develop **RESTful backend APIs** using Node.js & Express
-- Build interactive **web applications** with React
-- Solve **DSA problems** using C++ and Python
+  <p><b>Analytics</b></p>
+  <img src="https://skillicons.dev/icons?i=powerbi" />
+  <br>
+  <sub>Power BI · SQL · Excel</sub>
 
----
-
-### 🌟 Featured Projects
-<!-- Add your favorite project links below -->
-- **[Project Name](#)** – Short description of what it does or solves  
-- **[Project Name](#)** – Short description of what it does or solves  
+</div>
 
 ---
 
-### 📊 GitHub Stats
+<!-- What I Do Section -->
+<h3 align="center">🛠️ What I Do</h3>
+
+<div style="
+  max-width: 750px;
+  margin: auto;
+  background: #0f172a;
+  color: #e5e7eb;
+  padding: 20px;
+  border-radius: 14px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+">
+
+<ul>
+  <li>Build, train, and deploy <b>machine learning models</b></li>
+  <li>Analyze datasets and create <b>insightful dashboards</b></li>
+  <li>Develop <b>RESTful backend APIs</b> using Node.js & Express</li>
+  <li>Build interactive <b>web applications</b> with React</li>
+  <li>Solve <b>DSA problems</b> using C++ and Python</li>
+</ul>
+
+</div>
+
+---
+
+<!-- Featured Repositories -->
+<h3 align="center">🌟 Featured Repositories</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PARTH_GITHUB_USERNAME&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=PARTH_GITHUB_USERNAME&show_icons=true&theme=radical" height="160"/>
-  <img src="https://streak-stats.demolab.com/?user=PARTH_GITHUB_USERNAME&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthazad0812&repo=REPO_NAME_1&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthazad0812&repo=REPO_NAME_2&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthazad0812&repo=REPO_NAME_3&theme=radical" />
 </p>
 
 ---
 
-### 🌍 Connect With Me
+<!-- GitHub Stats -->
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parthazad0812&show_icons=true&theme=radical" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=parthazad0812&theme=radical" height="160"/>
+</p>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-azad-7b749a281/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](#)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthazad08@gmail.com)  
