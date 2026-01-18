@@ -70,21 +70,21 @@ with strong interest in **Data Analytics + Machine Learning**.
 ### 🎓 LMS Platform (Stripe Payments + Admin Panel)
 A production-grade Learning Management System with **secure payments**, course management, and role-based access.  
 **Highlights:** Auth, Stripe integration, Admin dashboard, Course enrollments, Protected routes  
-🔗 Repo: [LMS Platform](https://github.com/YOUR_GITHUB_USERNAME/YOUR_LMS_REPO)
+🔗 Repo: [LMS Platform](https://github.com/parthazad0812)
 
 ---
 
 ### 🤖 CareerPilot (AI Career Coach)
 An AI-driven platform that helps users improve resumes, plan career paths, and prepare for interviews.  
 **Highlights:** Resume builder, career roadmap, AI feedback, clean UI, scalable backend  
-🔗 Repo: [CareerPilot](https://github.com/YOUR_GITHUB_USERNAME/YOUR_CAREERPILOT_REPO)
+🔗 Repo: [CareerPilot](https://github.com/parthazad0812)
 
 ---
 
 ### 🚗 CarRental Platform (Borrow / Rent Cars)
 A real-world car rental system where users can **rent their car** or **borrow cars hourly** with verification.  
 **Highlights:** OTP login + Aadhar verification, booking engine, photo upload (before/after), secure APIs  
-🔗 Repo: [CarRental Platform](https://github.com/YOUR_GITHUB_USERNAME/YOUR_CARRENTAL_REPO)
+🔗 Repo: [CarRental Platform](https://github.com/parthazad0812)
 
 ---
 
@@ -92,27 +92,27 @@ A real-world car rental system where users can **rent their car** or **borrow ca
 
 ### 📊 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthazad0812&theme=react-dark&hide_border=true" />
 </p>
 
 ### 🔥 Contribution Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=parthazad0812&theme=radical&hide_border=true" height="170"/>
 </p>
 
 ---
 
 ## 🐍 Contribution Snake (Auto Updates Daily)
 <p align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/parthazad0812/parthazad0812/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=parthazad0812&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthazad0812&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
 
 ---
