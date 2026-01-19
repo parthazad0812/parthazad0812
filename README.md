@@ -5,7 +5,7 @@
 
 <!-- =====================  TYPING LINE  ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3200&pause=900&color=22c55e&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%7C+Backend+Engineer;Data+Analyst+%7C+ML+Enthusiast;Building+Products+%2B+Solving+Real+Problems+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3200&pause=900&color=22c55e&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%7C+Backend+Engineer;Data+Analyst+%7C+ML+Enthusiast;Next.js+%7C+Node.js+%7C+PostgreSQL+%7C+MongoDB;Building+Products+%2B+Solving+Real+Problems+🚀" />
 </p>
 
 <!-- =====================  LINKS  ===================== -->
@@ -25,14 +25,17 @@
 
 ## 👋 About Me
 
-I’m **Parth Azad**, a **Full Stack Developer** focused on **backend engineering** and scalable systems,  
+I’m **Parth Azad**, a **Full Stack Developer** focused on building scalable backend systems and modern web apps,  
 with strong interest in **Data Analytics + Machine Learning**.
 
-- 🚀 Backend: **Node.js, Express.js, MongoDB, REST APIs**
+- 🚀 Backend: **Node.js, Express.js, REST APIs**
+- 💻 Frontend: **React, Next.js**
+- 🗄️ Databases: **PostgreSQL, MongoDB**
+- 🔐 Auth: **Clerk Authentication**
+- 🐳 DevOps: **Docker (Basics)**
 - 🧠 Data Analytics: **SQL, Power BI, Excel, Python**
-- 💻 Frontend: **React**
 - ⚙️ Problem-solving: **DSA (C++/Python)**
-- 📌 Goal: Build production-ready apps & grow into a strong SDE / Backend Engineer
+- 📌 Goal: Build production-ready apps & grow into a strong Backend / Full Stack Engineer
 
 ---
 
@@ -40,7 +43,12 @@ with strong interest in **Data Analytics + Machine Learning**.
 
 ### 🚀 Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css,react,nodejs,express,mongodb,postgres,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css,react,nextjs,nodejs,express,mongodb,postgres,git,github,postman,docker" />
+</p>
+
+### 🔐 Authentication
+<p align="left">
+  <img src="https://img.shields.io/badge/Clerk-111827?style=flat&logo=clerk&logoColor=white"/>
 </p>
 
 ### 📊 Analytics / ML
@@ -57,33 +65,35 @@ with strong interest in **Data Analytics + Machine Learning**.
 
 ## 🛠 What I Do
 
-✅ Build secure & scalable backend APIs  
-✅ Develop full-stack web apps (React + Node + MongoDB)  
-✅ Analyze data and create dashboards (SQL + Power BI)  
-✅ Work on ML projects (data preprocessing → model → evaluation)  
-✅ Solve DSA problems and improve problem-solving skills  
+✅ Build secure, scalable backend systems & REST APIs  
+✅ Develop full-stack apps using **Next.js + Node.js**  
+✅ Work with **PostgreSQL + MongoDB** (schema design, queries, optimization)  
+✅ Implement authentication with **Clerk** / JWT based flows  
+✅ Containerize applications using **Docker basics**  
+✅ Analyze data & build dashboards using **SQL + Power BI**  
+✅ Improve problem-solving via DSA  
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🎓 LMS Platform (Stripe Payments + Admin Panel)
+### 🎓 LMS Platform (Stripe Payments + Clerk Auth)
 A production-grade Learning Management System with **secure payments**, course management, and role-based access.  
-**Highlights:** Auth, Stripe integration, Admin dashboard, Course enrollments, Protected routes  
+**Highlights:** Stripe payments, Clerk authentication, course enrollments, admin dashboard, protected routes  
 🔗 Repo: [LMS Platform](https://github.com/parthazad0812)
 
 ---
 
 ### 🤖 CareerPilot (AI Career Coach)
 An AI-driven platform that helps users improve resumes, plan career paths, and prepare for interviews.  
-**Highlights:** Resume builder, career roadmap, AI feedback, clean UI, scalable backend  
+**Highlights:** Resume builder, AI feedback, structured roadmap, clean UI, scalable backend  
 🔗 Repo: [CareerPilot](https://github.com/parthazad0812)
 
 ---
 
 ### 🚗 CarRental Platform (Borrow / Rent Cars)
-A real-world car rental system where users can **rent their car** or **borrow cars hourly** with verification.  
-**Highlights:** OTP login + Aadhar verification, booking engine, photo upload (before/after), secure APIs  
+A real-world car rental platform where users can **rent their car** or **borrow cars hourly** with verification.  
+**Highlights:** OTP login + verification, booking engine, photo upload (before/after), secure REST APIs  
 🔗 Repo: [CarRental Platform](https://github.com/parthazad0812)
 
 ---
