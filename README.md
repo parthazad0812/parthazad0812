@@ -16,7 +16,7 @@
   <a href="mailto:parthazad08@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://parthportfolio-beige.vercel.app/](https://portfolio-two-mu-slfn8w6xr1.vercel.app/" target="_blank">
+  <a href="https://portfolio-two-mu-slfn8w6xr1.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0f172a?style=flat&logo=vercel&logoColor=white"/>
   </a>
 </p>
@@ -126,7 +126,7 @@ A real-world car rental system where users can **rent their car** or **borrow ca
   <a href="mailto:parthazad08@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://parthportfolio-beige.vercel.app/" target="_blank">
+  <a href="https://portfolio-two-mu-slfn8w6xr1.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
