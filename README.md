@@ -92,7 +92,7 @@ An AI-driven platform that helps users improve resumes, plan career paths, and p
 ### 🚗 WheelORent (Borrow / Rent Cars)
 A real-world car rental platform where users can **rent their car** or **borrow cars hourly** with verification.  
 **Highlights:** verification, booking engine, photo upload (before/after), secure REST APIs  
-🔗 Demo: [CarRental Platform](https://wheel-o-rent.vercel.app/)
+🔗 Demo: [WheelORent](https://wheel-o-rent.vercel.app/)
 
 ---
 
