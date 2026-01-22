@@ -77,24 +77,17 @@ with strong interest in **Data Analytics + Machine Learning**.
 
 ## 🌟 Featured Projects
 
-### 🎓 LMS Platform (Stripe Payments + Clerk Auth)
-A production-grade Learning Management System with **secure payments**, course management, and role-based access.  
-**Highlights:** Stripe payments, Clerk authentication, course enrollments, admin dashboard, protected routes  
-🔗 Repo: [LMS Platform](https://github.com/parthazad0812)
-
----
-
 ### 🤖 CareerPilot (AI Career Coach)
 An AI-driven platform that helps users improve resumes, plan career paths, and prepare for interviews.  
 **Highlights:** Resume builder, AI feedback, structured roadmap, clean UI, scalable backend  
-🔗 Repo: [CareerPilot](https://github.com/parthazad0812)
+🔗 Demo: [CareerPilot](https://careerpilot-ashy.vercel.app/)
 
 ---
 
-### 🚗 CarRental Platform (Borrow / Rent Cars)
+### 🚗 WheelORent (Borrow / Rent Cars)
 A real-world car rental platform where users can **rent their car** or **borrow cars hourly** with verification.  
-**Highlights:** OTP login + verification, booking engine, photo upload (before/after), secure REST APIs  
-🔗 Repo: [CarRental Platform](https://github.com/parthazad0812)
+**Highlights:** verification, booking engine, photo upload (before/after), secure REST APIs  
+🔗 Repo: [CarRental Platform](https://wheel-o-rent.vercel.app/)
 
 ---
 
