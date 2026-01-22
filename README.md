@@ -46,10 +46,15 @@ with strong interest in **Data Analytics + Machine Learning**.
   <img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css,react,nextjs,nodejs,express,mongodb,postgres,git,github,postman,docker" />
 </p>
 
-### 🔐 Authentication
+## 🔐 Authentication & Authorization
+
 <p align="left">
   <img src="https://img.shields.io/badge/Clerk-111827?style=flat&logo=clerk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"/>
 </p>
+
+✅ **Clerk** → User authentication (Sign-in / Sign-up / Sessions)  
+✅ **JWT** → Secure API authorization (Token-based protected routes)  
 
 ### 📊 Analytics / ML
 <p align="left">
