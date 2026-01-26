@@ -105,14 +105,7 @@ A real-world car rental platform where users can **rent their car** or **borrow 
 
 ### 🔥 Contribution Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=parthazad0812&theme=radical&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🐍 Contribution Snake (Auto Updates Daily)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/parthazad0812/parthazad0812/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://streak-stats.demolab.com?user=parthazad0812&theme=dark&hide_border=true&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" />
 </p>
 
 ---
