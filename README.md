@@ -103,10 +103,11 @@ A real-world car rental platform where users can **rent their car** or **borrow 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthazad0812&theme=react-dark&hide_border=true" />
 </p>
 
-### 🔥 Contribution Streak
+### 📅 Contribution Overview
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=parthazad0812&theme=dark&hide_border=true&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parthazad0812&theme=github_dark" />
 </p>
+
 
 ---
 
